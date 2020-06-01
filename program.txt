@@ -7,3 +7,8 @@ motho（）
 {
 print “my name is 小飞牛”
 }
+
+motho（）
+{
+print “my name is zlc”
+}
